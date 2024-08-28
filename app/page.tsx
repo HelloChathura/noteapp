@@ -109,6 +109,6 @@ export default function Home() {
     //     </a>
     //   </div>
     // </main>
-    <h1>Welcome to home</h1>
+    <h1>Welcome to home.. </h1>
   );
 }
